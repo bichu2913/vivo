@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration:none;
+}
+.container{ width: 100%;
+    height:1000%
+
+
+}
+.header{
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    background-color: white;
+    
+    
+}
+#h1{
+    width: 16%;
+    height: 80px;
+    
+    float:left;
+    
+}
+#h11{
+    padding-left: 70px;
+    padding-top: 21px;
+    width: 105px;
+    height: 35px;
+    cursor: pointer;
+
+}#h2{
+    width: 66%;
+    height: 80px;
+
+    float: left;
+
+}
+#h22{
+    padding-top: 27px;
+    font-size:medium;
+    cursor: pointer;
+}
+li{
+   display: inline;
+   padding-right: 40px;
+   padding-top: 21px;
+}
+#h3{
+    width: 18%;
+    height:80px;
+    float: left;
+}
+#h33{padding-left: 40px;
+    padding-top: 4px;
+    width: 183px;
+    height: 59px;
+    cursor: pointer;
+}
+.body1{
+    
+    width: 100%;
+    height: 669px;
+   
+}
+#b1{
+    width: 100%;
+    height: 669px;
+    cursor: pointer;
+}
+.body2{
+    width: 100%;
+    height: 669px;
+    
+}
+#b2{
+    width: 100%;
+    height: 669px;
+    cursor: pointer;
+}
+.body3{ width: 100%;
+    height: 669px;
+}
+#b3{
+        width: 100%;
+        height: 669px;
+        cursor: pointer;
+}
+.body4{
+        width: 100%;
+        height: 850px;
+        background-color:#f0f2f5
+}
+.body401{
+    width: 35%;
+    height: 850px;
+    float: left;
+    
+}
+#b4{
+    font-size: 30px;
+    padding-left: 95px;
+    padding-top: 87px;
+    cursor: pointer;
+    
+}
+#b41{
+    width: 392px;
+    height: 304px;
+    padding-left: 76px;
+    padding-top: 49px;
+    cursor: pointer;
+
+}
+#b42{
+    width: 392px;
+    height: 304px;
+    padding-left: 79px;
+    padding-top: 23px;
+    cursor: pointer;
+    
+}
+ .body402{
+    width: 30%;
+    height: 850px;
+
+    float:left;
+
+ }   
+ #b5{
+    width: 401px;
+    height: 584px;
+    padding-left: 27px;
+    padding-top: 166px;
+    cursor: pointer;
+ }
+ .body403{width: 35%;
+    height: 850px;
+    float: left;
+   
+
+ }
+ #b6{ width: 413px;
+    height: 344px;
+    padding-left: 40px;
+    padding-top: 166px;
+    cursor: pointer;
+    
+ }
+ #b7{
+    width: 432px;
+    height: 284px;
+    padding-left: 34px;
+    padding-top: 26px;
+    cursor: pointer;
+ }
+ .body5{ width: 100%;
+    height: 850px;
+    background-color:#242933;
+    color: white;
+}
+#b51{
+    font-size: 20px;
+    padding-left: 63px;
+    padding-top: 37px;
+    cursor: pointer;
+    line-height: 40px;
+    float: left;
+}
+#b52{      font-size: 20px;
+    padding-left: 63px;
+    padding-top: 37px;
+    cursor: pointer;
+    line-height: 40px;
+    float: left;
+    
+    
+}
+#b53{ font-size: 20px;
+    padding-left: 63px;
+    padding-top: 37px;
+    cursor: pointer;
+    line-height: 40px;
+    float: left;
+}
+#b54{
+    font-size: 20px;
+    padding-left: 63px;
+    padding-top: 37px;
+    cursor: pointer;
+    line-height: 40px;
+    float: left;
+}
+#b55{ font-size: 21px;
+    padding-left: 164px;
+    padding-top: 41px;
+    cursor: pointer;
+    line-height: 45px;
+    float: left;
+}
+
+ 
+    
+
+
+
+
